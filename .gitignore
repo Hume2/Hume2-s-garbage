@@ -1,1 +1,7 @@
 *~
+program
+*.user
+*.files
+*.creator
+*.includes
+*.config
