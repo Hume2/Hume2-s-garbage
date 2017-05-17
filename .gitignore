@@ -5,3 +5,4 @@ program
 *.creator
 *.includes
 *.config
+*.creator.*
